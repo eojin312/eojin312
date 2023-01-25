@@ -1,13 +1,5 @@
 
 ### Hi there 👋
-
-<p align="center">
-  <a href="https://gist.github.com/eojin312/6629f13932d5eccb9388bab3097b3dca">
-  </a>
-  <h3 align="center">github-stats-box</h3>
-  <p align="center">⚡️📌 Update a pinned gist to contain your GitHub stats</p>
-</p>
-
 <!--
 **eojin312/eojin312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
