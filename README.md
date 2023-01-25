@@ -1,11 +1,18 @@
 
 ### Hi there 👋
 
+<p align="center">
+  <a href="https://gist.github.com/eojin312/6629f13932d5eccb9388bab3097b3dca">
+  </a>
+  <h3 align="center">github-stats-box</h3>
+  <p align="center">⚡️📌 Update a pinned gist to contain your GitHub stats</p>
+</p>
+
 <!--
 **eojin312/eojin312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+https://gist.github.com/eojin312/6629f13932d5eccb9388bab3097b3dca
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,9 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-![eojin312's github stats](https://github-readme-stats.vercel.app/api?username=eojin312&show_icons=true)
 
 
 
